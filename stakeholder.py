@@ -208,3 +208,4 @@ st.pyplot(new_offer_pie_chart)
 
 
 
+###Calculations are easily changed by changing the sidebar details. Ultimately this is where I performed my modeling. 
